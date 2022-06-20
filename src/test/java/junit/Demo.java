@@ -2,15 +2,16 @@ package junit;
 
 import org.junit.jupiter.api.Test;
 
-//public class Demo {
+public class Demo {
 
-//    @Test
-//    public void test1() {
-//        System.out.println("This is test1 ");
-//    }
+    @Test
+    public void test1() {
+        System.out.println("This is test1 ");
+    }
+
 //    public boolean CatDog(String str) {
 
-//        if(str.contains("cat") && str.contains("dog")){
+//        if (str.contains("cat") && str.contains("dog")) {
 //            return true;
 //        }
 //        else {
@@ -37,7 +38,7 @@ import org.junit.jupiter.api.Test;
 //        @Test
 //         public void testCatDog(){
 //            String str1 = "catdog"
-
+    }
 
 
 
